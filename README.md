@@ -1,2 +1,1 @@
-# opinion_dynamics_sbm
-Simulation of some opinion dynamics on SBM
+# Simulation of Several Opinion Dynamics on SBM Graphs
