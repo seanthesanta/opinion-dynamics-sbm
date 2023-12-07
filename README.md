@@ -11,5 +11,5 @@ For the Friedkin-Johnsen models, we observe that _as the different communities i
 ## Further information
 For more detailed results, feel free to refer to the PDF report attached. The Python script for simulation is provided in the Jupyter Notebook attached, which uses \texttt{NetworkX} and \texttt{NDlib}.
 
-## Example: Opinion evolution of Friedkin-Johnsen dynamics on two different SBMs
+## Example: Friedkin-Johnsen opinion dynamics on two different SBMs
 ![FJ_SBM](figures/fj_sbm.png)
